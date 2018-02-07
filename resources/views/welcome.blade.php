@@ -33,7 +33,7 @@
       <strong>Divino Rocio</strong><br>
       Irarrazaval 2821, Oficina 714, Torre A<br>
       Ñuñoa, Santiago<br>
-      <abbr title="Celular"></abbr> (+56) 9 6606 6083
+      <abbr title="Celular"></abbr> (+56) 9 6606 6083<br>
       <abbr title="Celular"></abbr> (+56) 9 4455 2262
     </address>
       </div>
