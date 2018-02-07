@@ -36,6 +36,10 @@
       <abbr title="Celular"></abbr> (+56) 9 6606 6083<br>
       <abbr title="Celular"></abbr> (+56) 9 4455 2262
     </address>
+      <address>
+      <strong>Contacto</strong><br>
+      <a href="mailto:divinorocio@gmail.com">divinorocio@gmail.com</a>
+    </address>
       </div>
     </footer>
 
